@@ -1,5 +1,5 @@
 # Final_Project
-This project is based on morphological classfication using Deep COnvolution Neural Network. It 
+This project is based on morphological classfication using Deep Convolution Neural Network. It 
 shows how computational cosmology could help to make hard classificaiton easy. The galaxy can 
 be classified in various ways, they can be in three classes namely - Elliptical, Spiral, Irregular or 
 they could be classified more deeper as Disk, Smooth, Bulge, Spiral etc.
